@@ -1,4 +1,4 @@
-# Pro Tutorials GitHub Organization
+# Pro Tutorials Organization
 
 Welcome to the Pro Tutorials GitHub Organization! Here, you will find a collection of high-quality 
 programming tutorials focusing on a wide range of technologies, all centered around JavaScript, 
